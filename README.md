@@ -1,5 +1,5 @@
-3>NAME:Hemapriya K</H3>
-<H3>EREGISTER NO.212223040066</H3>
+<H3>NAME:Hemapriya K</H3>
+<H3>REGISTER NO.212223040066</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
